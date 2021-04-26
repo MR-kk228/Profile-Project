@@ -1,0 +1,32 @@
+h2 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+p { 
+	font-family: 'Noto Sans', sans-serif;
+}
+li { 
+	font-family: 'Lato', sans-serif;
+}
+body {
+    background-color: #3333ff;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.black {
+    color: #000000;
+}
+
+.yellow {
+    color: #ffff00;
+}
+
+h2 {
+    font-family: Arial;
+}
